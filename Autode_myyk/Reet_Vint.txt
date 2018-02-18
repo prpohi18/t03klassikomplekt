@@ -1,0 +1,5 @@
+Auto mark: Opel Vectra
+Registrinumber: AAK123
+V2ljalaske_aasta: 2005
+Auto kytus: bensiin
+Auto l2bis6it: 50000

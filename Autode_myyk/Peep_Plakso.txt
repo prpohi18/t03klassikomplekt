@@ -1,0 +1,5 @@
+Auto mark: Volvo 200
+Registrinumber: HJL244
+V2ljalaske_aasta: 2005
+Auto kytus: diisel
+Auto l2bis6it: 12000
