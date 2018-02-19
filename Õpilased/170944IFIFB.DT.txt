@@ -1,5 +1,5 @@
-Õpilase eesnimi: Märt
-Õpilase perekonnanimi: Paakspuu
+Õpilase eesnimi: Juku
+Õpilase perekonnanimi: Metspuu
 Õpilase kood: 170944IFIFB.DT
-Õpilase õppekava täidetud mahus: 21
+Õpilase õppekava täidetud mahus: 21 EAP
 Õpilase KKH: 4.81

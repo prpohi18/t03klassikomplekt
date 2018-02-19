@@ -28,7 +28,7 @@ public static void main(String[] args) throws IOException{
 		String aine1kood=buffer.readLine();
 		opilaneID.aine1kood=aine1kood;
 		
-		System.out.println("Sisesta aine "+aine1nimi+" ("+aine1kood+")"+" EAP hulk:");
+		System.out.println("Sisesta aine "+aine1nimi+" ("+aine1kood+")"+" EAP maht:");
 		String Aine1EAP=buffer.readLine();
 		int aine1eap=Integer.parseInt(Aine1EAP);
 		opilaneID.aine1eap=aine1eap;
@@ -47,7 +47,7 @@ public static void main(String[] args) throws IOException{
 		String aine2kood=buffer.readLine();
 		opilaneID.aine2kood=aine2kood;
 		
-		System.out.println("Sisesta aine "+aine2nimi+" ("+aine2kood+")"+" EAP hulk:");
+		System.out.println("Sisesta aine "+aine2nimi+" ("+aine2kood+")"+" EAP maht:");
 		String Aine2EAP=buffer.readLine();
 		int aine2eap=Integer.parseInt(Aine2EAP);
 		opilaneID.aine2eap=aine1eap;
@@ -66,7 +66,7 @@ public static void main(String[] args) throws IOException{
 		String aine3kood=buffer.readLine();
 		opilaneID.aine3kood=aine3kood;
 		
-		System.out.println("Sisesta aine "+aine3nimi+" ("+aine3kood+")"+" EAP hulk:");
+		System.out.println("Sisesta aine "+aine3nimi+" ("+aine3kood+")"+" EAP maht:");
 		String Aine3EAP=buffer.readLine();
 		int aine3eap=Integer.parseInt(Aine2EAP);
 		opilaneID.aine3eap=aine3eap;
@@ -85,7 +85,7 @@ public static void main(String[] args) throws IOException{
 		String aine4kood=buffer.readLine();
 		opilaneID.aine4kood=aine4kood;
 		
-		System.out.println("Sisesta aine "+aine4nimi+" ("+aine4kood+")"+" EAP hulk:");
+		System.out.println("Sisesta aine "+aine4nimi+" ("+aine4kood+")"+" EAP maht:");
 		String Aine4EAP=buffer.readLine();
 		int aine4eap=Integer.parseInt(Aine2EAP);
 		opilaneID.aine4eap=aine4eap;
@@ -104,7 +104,7 @@ public static void main(String[] args) throws IOException{
 		String aine5kood=buffer.readLine();
 		opilaneID.aine5kood=aine5kood;
 		
-		System.out.println("Sisesta aine "+aine5nimi+" ("+aine5kood+")"+" EAP hulk:");
+		System.out.println("Sisesta aine "+aine5nimi+" ("+aine5kood+")"+" EAP maht:");
 		String Aine5EAP=buffer.readLine();
 		int aine5eap=Integer.parseInt(Aine5EAP);
 		opilaneID.aine5eap=aine5eap;
@@ -138,7 +138,7 @@ public static void main(String[] args) throws IOException{
 			pw.println("Õpilase nimi: " +opilaneID.eesnimi+" "+opilaneID.perekonnanimi);	
 			pw.println("Õpilase kood: " +opilaneID.kood);
 			pw.println("Õpilase hinnete summa: " +hinnesum);
-			pw.println("Õpilase õppekava täidetud mahus: " +eapsum" EAP");
+			pw.println("Õpilase õppekava täidetud mahus: " +eapsum+" EAP");
 			pw.printf("Õpilase KKH: %.2f\n\n",kkh);
 			pw.println("HINNETELEHT");			
 			pw.println(opilaneID.aine1nimi+"("+opilaneID.aine1kood+") [Hinne: "+opilaneID.aine1hinne+" / "+opilaneID.aine1eap+" EAP]");

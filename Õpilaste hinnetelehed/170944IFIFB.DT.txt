@@ -1,7 +1,7 @@
-Õpilase nimi: Märt Paakspuu
+Õpilase nimi: Juku Metspuu
 Õpilase kood: 170944IFIFB.DT
 Õpilase hinnete summa: 24
-Õpilase õppekava täidetud mahus: 21
+Õpilase õppekava täidetud mahus: 21 EAP
 Õpilase KKH: 4.81
 
 HINNETELEHT
@@ -9,4 +9,4 @@ Andmebaaside projekteerimine(IFI6013.DT) [Hinne: 5 / 3 EAP]
 Programmeerimise alused(IFI6074.DT) [Hinne: 4 / 3 EAP]
 Veebiprogrammeerimine(IFI6076.DT) [Hinne: 5 / 4 EAP]
 Digipädevuste baaskursus(IFI6206.DT) [Hinne: 5 / 4 EAP]
-Operatsioonisüsteemide alused ja haldamine(IFI 6209.DT) [Hinne: 5 / 6 EAP]
+Operatsioonisüsteemide alused ja haldamine(IFI6209.DT) [Hinne: 5 / 6 EAP]

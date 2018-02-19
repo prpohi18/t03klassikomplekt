@@ -1,47 +1,48 @@
-[tammkert@greeny JAVAKT]$ java Student_input
+[tammkert@greeny t03klassikomplekt]$ java Student_input
 Sisesta õpilase eesnimi:
-Märt
+Juku
 Sisesta õpilase perekonnanimi:
-Paakspuu
+Metspuu
 Sisesta õpilase kood:
 170944IFIFB.DT
 Sisesta aine nimetus:
 Andmebaaside projekteerimine
 Sisesta aine Andmebaaside projekteerimine kood:
 IFI6013.DT
-Sisesta aine Andmebaaside projekteerimine (IFI6013.DT) EAP hulk:
+Sisesta aine Andmebaaside projekteerimine (IFI6013.DT) EAP maht:
 3
-Sisesta õpilase Märt Paakspuu aine Andmebaaside projekteerimine (IFI6013.DT) hinne:
+Sisesta õpilase Juku Metspuu aine Andmebaaside projekteerimine (IFI6013.DT) hinne:
 5
 Sisesta aine nimetus:
 Programmeerimise alused
 Sisesta aine Programmeerimise alused kood:
 IFI6074.DT
-Sisesta aine Programmeerimise alused (IFI6074.DT) EAP hulk:
+Sisesta aine Programmeerimise alused (IFI6074.DT) EAP maht:
 4
-Sisesta õpilase Märt Paakspuu aine Programmeerimise alused (IFI6074.DT) hinne:
+Sisesta õpilase Juku Metspuu aine Programmeerimise alused (IFI6074.DT) hinne:
 4
 Sisesta aine nimetus:
 Veebiprogrammeerimine
 Sisesta aine Veebiprogrammeerimine kood:
 IFI6076.DT
-Sisesta aine Veebiprogrammeerimine (IFI6076.DT) EAP hulk:
+Sisesta aine Veebiprogrammeerimine (IFI6076.DT) EAP maht:
 4
-Sisesta õpilase Märt Paakspuu aine Veebiprogrammeerimine (IFI6076.DT) hinne:
+Sisesta õpilase Juku Metspuu aine Veebiprogrammeerimine (IFI6076.DT) hinne:
 5
 Sisesta aine nimetus:
 Digipädevuste baaskursus
 Sisesta aine Digipädevuste baaskursus kood:
 IFI6206.DT
-Sisesta aine Digipädevuste baaskursus (IFI6206.DT) EAP hulk:
+Sisesta aine Digipädevuste baaskursus (IFI6206.DT) EAP maht:
 3
-Sisesta õpilase Märt Paakspuu aine Digipädevuste baaskursus (IFI6206.DT) hinne:
+Sisesta õpilase Juku Metspuu aine Digipädevuste baaskursus (IFI6206.DT) hinne:
 4
 Sisesta aine nimetus:
 Operatsioonisüsteemide alused ja haldamine
 Sisesta aine Operatsioonisüsteemide alused ja haldamine kood:
-IFI 6209.DT
-Sisesta aine Operatsioonisüsteemide alused ja haldamine (IFI 6209.DT) EAP hulk:
+IFI6209.DT
+Sisesta aine Operatsioonisüsteemide alused ja haldamine (IFI6209.DT) EAP maht:
 6
-Sisesta õpilase Märt Paakspuu aine Operatsioonisüsteemide alused ja haldamine (IFI 6209.DT) hinne:
+Sisesta õpilase Juku Metspuu aine Operatsioonisüsteemide alused ja haldamine (IFI6209.DT) hinne:
 5
+[tammkert@greeny t03klassikomplekt]$
