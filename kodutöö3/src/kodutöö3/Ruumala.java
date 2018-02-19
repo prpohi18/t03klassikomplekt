@@ -46,17 +46,17 @@ public class Ruumala {
 }
 
 /*
-Põhja Pindala on 44.0
+Põhja Pindala on 37500.0
 
-Põhja Pindala on 12.0
+Põhja Pindala on 37500.0
 
-Diagonaal on 13.152946437965905
+Diagonaal on 291.6093276971778
 
-Diagonaal on 10.295630140987
+Diagonaal on 291.6864755178066
 
-Ruumala 264.0
+Ruumala 225000.0
 
-Ruumala 108.0
+Ruumala 337500.0
 
-Esimene risttahukas on suurem
+Teine Risttahukas on suurem
 */
