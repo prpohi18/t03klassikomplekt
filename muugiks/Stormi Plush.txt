@@ -1,0 +1,5 @@
+Korteri linn: Tartu
+Korteri tänav: Käo
+Korteri tänavanumber:1
+Korteri ruutmeetrid: 80.0
+Korteri lisainfo: Hubane ja vaikne rajoon

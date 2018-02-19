@@ -1,0 +1,5 @@
+Korteri linn: Tallinn
+Korteri tänav: Akadeemia tee 
+Korteri tänavanumber:79
+Korteri ruutmeetrid: 35.6
+Korteri lisainfo: Renoveeritud 2017 aastal
