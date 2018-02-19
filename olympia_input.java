@@ -45,3 +45,25 @@ public class olympia_input {
         }
 	}
 }
+
+/*
+
+>java olympia_input
+>Sisesta võistleja eesnimi:
+Usain
+>Sisesta võistleja perekonnanimi:
+Bolt
+>Sisesta võistleja spordiala:
+100m jooks
+>Sisesta võistleja tulemus:
+9.71s
+>Tulemus on kirjas.
+
+
+>Usain Bolt.txt
+EESNIMI: Usain
+PERENIMI: Bolt
+SPORDIALA: 100m jooks
+TULEMUS: 9.71s
+
+*/
