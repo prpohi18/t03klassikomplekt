@@ -1,0 +1,4 @@
+Eesnimi: Mati
+Perekonnanimi: Lamp
+Number: 14
+Meeskond: Punane

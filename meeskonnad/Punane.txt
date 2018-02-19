@@ -1,0 +1,15 @@
+Eesnimi: Juhan
+Perekonnanimi: Juur
+Number: 78
+Meeskond: Punane
+
+Eesnimi: Mati
+Perekonnanimi: Lamp
+Number: 14
+Meeskond: Punane
+
+Eesnimi: Kuido
+Perekonnanimi: Kaak
+Number: 99
+Meeskond: Punane
+
