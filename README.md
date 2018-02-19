@@ -1,9 +1,6 @@
-# t03klassikomplekt
+# t03klassikomplekt kodutöö
 
-Mitut klassi ja omavahel viitavaid objekte kasutav mõnda süsteemi modelleeriv programm koos kasutusnäitega.
+Kert Tamm TA I
 
-Ideid: 
-  Kujundeid ja nende asukohti ja kokkupuutumist tähistavad klassid + haldava klassi eksemplar
-  Panganäite edasiarendus
-  
- 
+![alt tag](https://github.com/K3RTTAMM/1.ea-kodutoo/blob/master/JukuAndmedDemo.jpg)
+![alt tag](https://github.com/K3RTTAMM/1.ea-kodutoo/blob/master/JukuHinnetelehtDemo.jpg)
