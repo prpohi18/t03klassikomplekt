@@ -1,0 +1,5 @@
+Õpilase eesnimi: Märt
+Õpilase perekonnanimi: Paakspuu
+Õpilase kood: 170944IFIFB.DT
+Õpilase õppekava täidetud mahus: 21
+Õpilase KKH: 4.81
