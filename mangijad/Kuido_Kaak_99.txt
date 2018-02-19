@@ -1,0 +1,4 @@
+Eesnimi: Kuido
+Perekonnanimi: Kaak
+Number: 99
+Meeskond: Punane
