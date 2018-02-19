@@ -1,12 +1,12 @@
 Õpilase nimi: Juku Metspuu
-Õpilase kood: 170944IFIFB.DT
-Õpilase hinnete summa: 24
-Õpilase õppekava täidetud mahus: 21 EAP
-Õpilase KKH: 4.81
+Õpilase kood: 170946IFIFB.DT
+Õpilase hinnete summa: 23
+Õpilase õppekava täidetud mahus: 20 EAP
+Õpilase KKH: 4.65
 
 HINNETELEHT
 Andmebaaside projekteerimine(IFI6013.DT) [Hinne: 5 / 3 EAP]
 Programmeerimise alused(IFI6074.DT) [Hinne: 4 / 3 EAP]
 Veebiprogrammeerimine(IFI6076.DT) [Hinne: 5 / 4 EAP]
-Digipädevuste baaskursus(IFI6206.DT) [Hinne: 5 / 4 EAP]
+Digipädevuste baaskursus(IFI6206.DT) [Hinne: 4 / 3 EAP]
 Operatsioonisüsteemide alused ja haldamine(IFI6209.DT) [Hinne: 5 / 6 EAP]

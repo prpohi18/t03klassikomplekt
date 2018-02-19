@@ -1,10 +1,11 @@
+[tammkert@greeny t03klassikomplekt]$ javac Student_input.java
 [tammkert@greeny t03klassikomplekt]$ java Student_input
 Sisesta õpilase eesnimi:
 Juku
 Sisesta õpilase perekonnanimi:
 Metspuu
 Sisesta õpilase kood:
-170944IFIFB.DT
+170946IFIFB.DT
 Sisesta aine nimetus:
 Andmebaaside projekteerimine
 Sisesta aine Andmebaaside projekteerimine kood:

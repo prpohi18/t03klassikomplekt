@@ -68,7 +68,7 @@ public static void main(String[] args) throws IOException{
 		
 		System.out.println("Sisesta aine "+aine3nimi+" ("+aine3kood+")"+" EAP maht:");
 		String Aine3EAP=buffer.readLine();
-		int aine3eap=Integer.parseInt(Aine2EAP);
+		int aine3eap=Integer.parseInt(Aine3EAP);
 		opilaneID.aine3eap=aine3eap;
 		
 		System.out.println("Sisesta õpilase "+eesnimi+" "+perekonnanimi+" aine "+aine3nimi+" ("+aine3kood+")"+" hinne:");
@@ -87,12 +87,12 @@ public static void main(String[] args) throws IOException{
 		
 		System.out.println("Sisesta aine "+aine4nimi+" ("+aine4kood+")"+" EAP maht:");
 		String Aine4EAP=buffer.readLine();
-		int aine4eap=Integer.parseInt(Aine2EAP);
+		int aine4eap=Integer.parseInt(Aine4EAP);
 		opilaneID.aine4eap=aine4eap;
 		
 		System.out.println("Sisesta õpilase "+eesnimi+" "+perekonnanimi+" aine "+aine4nimi+" ("+aine4kood+")"+" hinne:");
 		String Aine4HINNE=buffer.readLine();
-		int aine4hinne=Integer.parseInt(Aine3HINNE);
+		int aine4hinne=Integer.parseInt(Aine4HINNE);
 		opilaneID.aine4hinne=aine4hinne;
 		
 // Aine 5		

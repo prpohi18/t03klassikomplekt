@@ -1,0 +1,5 @@
+Õpilase eesnimi: Juku
+Õpilase perekonnanimi: Metspuu
+Õpilase kood: 170946IFIFB.DT
+Õpilase õppekava täidetud mahus: 20 EAP
+Õpilase KKH: 4.65
