@@ -1,0 +1,8 @@
+Korterinumber: 2
+Veenäit soe: 4
+Veenäit külm: 5
+Päev elekternäit: 90
+Öö elektrinäit: 40
+Vee summa: 22.509999999999998
+Elektri summa: 13.2
+Näitude maksumus: 35.709999999999994

@@ -5,7 +5,7 @@ public class Elaniku_sisestamine{
 public static void main(String[] args) throws IOException{
   BufferedReader sisse=new BufferedReader(new InputStreamReader(System.in));
   
-  Elanik elanik1=new Elanik();
+  Andmed elanik1=new Andmed();
   
   System.out.println("Sisesta korteriomaniku eesnimi:");
   String eesnimi=sisse.readLine();

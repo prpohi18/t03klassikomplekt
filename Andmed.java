@@ -1,5 +1,8 @@
 public class Andmed{
+  protected String omaniku_eesnimi;
+	protected String omaniku_perekonnanimi;
 	protected String korterinumber;
+	protected String telefoninumber;
   protected int soe_vesi; // 3.04
   protected int kulm_vesi; // 2.07
   protected int paev_elekter;  //0.112
