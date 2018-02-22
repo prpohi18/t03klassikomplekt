@@ -1,3 +1,25 @@
 Inglise_keel A.Neem A444 1 E-1345
 Vene_keel A.Peem A314 17 T-1345
 Matemaatika P.Teem T432 34 E-1135
+
+
+/////
+Kirje tehtud!
+Kirje tehtud!
+Kirje tehtud!
+ESMASPÄEV 
+
+Inglise_keel A.Neem A444 1 E-1345
+
+Matemaatika P.Teem T432 34 E-1135
+
+TEISIPÄEV 
+
+Vene_keel A.Peem A314 17 T-1345
+
+KOLMAPÄEV 
+
+NELJAPÄEV 
+
+REEDE 
+/////
