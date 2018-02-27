@@ -1,0 +1,8 @@
+Firstname: Lonzo
+Lastname: Ball
+Position: PG
+Team: Los Angeles Lakers
+Firstname: Kyle
+Lastname: Kuzma
+Position: SG
+Team: Los Angeles Lakers
