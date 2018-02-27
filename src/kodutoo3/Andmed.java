@@ -14,10 +14,8 @@ public static void main(String[] args) {
             String line= br.readLine();
             System.out.println("Tulbad: " + line);
 
-            // almost the array :)
             List<Loom> loomad = new ArrayList<>();
 
-            // read to the end of file
             while ((line = br.readLine()) != null) {
                 final String[] temp = line.split(",");
 
@@ -32,7 +30,6 @@ public static void main(String[] args) {
 
             br.close();
 
-            // display the list
             loomad.forEach(System.out::println);
 
         } catch(Exception ex){
