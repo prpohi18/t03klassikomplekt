@@ -1,0 +1,12 @@
+Firstname: Stephen
+Lastname: Curry
+Position: PG
+Team: Golden State Warriors
+Firstname: Kevin
+Lastname: Durant
+Position: SF
+Team: Golden State Warriors
+Firstname: Draymond
+Lastname: Greene
+Position: PF
+Team: Golden State Warriors

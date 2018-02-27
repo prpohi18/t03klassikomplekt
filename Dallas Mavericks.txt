@@ -1,0 +1,8 @@
+Firstname: Dirk
+Lastname: Nowitzki
+Position: PF
+Team: Dallas Mavericks
+Firstname: Nerlens
+Lastname: Noel
+Position: C
+Team: Dallas Mavericks
