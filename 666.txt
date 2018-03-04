@@ -1,0 +1,4 @@
+Eesnimi: Julius
+Perenimi: Paulus
+Sugu: ???
+Vanus: 666
