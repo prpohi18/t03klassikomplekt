@@ -1,0 +1,4 @@
+Eesnimi: Markus
+Perenimi: Heinsalu
+Sugu: Mees
+Vanus: 19
