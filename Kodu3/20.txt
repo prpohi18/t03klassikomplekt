@@ -1,0 +1,8 @@
+Eesnimi: Kevin
+Perenimi: Kodasma
+Sugu: Mees
+Vanus: 20
+Eesnimi: Mari
+Perenimi: Maasikas
+Sugu: Naine
+Vanus: 20
