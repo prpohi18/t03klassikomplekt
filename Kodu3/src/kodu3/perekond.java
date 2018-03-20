@@ -28,3 +28,17 @@ public class perekond {
     }
     
 }
+
+/*
+Tere, kasutaja! Siia saad sisestada oma perekonna.
+Sisesta eesnimi: 
+Mart
+Sisesta perenimi: 
+Mardiste
+Sisesta sugu: 
+Mees
+Sisesta vanus: 
+99
+Pereliige on lisatud!
+BUILD SUCCESSFUL (total time: 24 seconds)
+*/
