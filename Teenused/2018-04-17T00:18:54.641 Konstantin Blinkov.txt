@@ -1,0 +1,9 @@
+Omaniku nimi: Konstantin Blinkov
+Looma nimi: Sirena
+Teenused:
+  Masaaz 15.5€
+Pesu vann 8.0€
+Kuivatamine 3.0€
+
+__________________________
+Kokku: 26.5€
