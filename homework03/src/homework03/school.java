@@ -26,3 +26,14 @@ public class school {
         printWriter.close ();
     }
 }
+
+/*
+run:
+Sisestage palun õpilase nimi:
+Maritana Sampu
+Sisestage palun aine nimetus:
+Programmeerimise põhikursus
+Sisestage palun hinne:
+A
+
+*/
