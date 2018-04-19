@@ -15,11 +15,10 @@ public class school {
         PrintWriter printWriter = null;
         
         try {
-            printWriter = new PrintWriter ("Tulemused.txt");
-            for(int i=0; i<200; i++){
-                printWriter.println ("Õpilase " + name + " hinne aines " + subject + " on " + result);
-            }
-        } catch (FileNotFoundException ex) {
+            printWriter = new PrintWriter (new FileWriter("Tulemused.txt", true));
+            printWriter.println ("Õpilase " + name + " hinne aines " + subject + " on " + result);
+
+        } catch (Exception ex) {
             Logger.getLogger(school.class.getName()).log(Level.SEVERE, null, ex);
         } 
         
