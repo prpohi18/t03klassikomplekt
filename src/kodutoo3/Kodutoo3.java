@@ -50,8 +50,7 @@ Koera tõug on: hundikoer
 Koera saba pikkus on: 8
 
 Process finished with exit code 0
- */
-/*
+
 Sisestage koera nimi:
 Pauka
 Sisestage koera vanus:
