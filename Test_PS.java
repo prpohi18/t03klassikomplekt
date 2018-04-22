@@ -1,5 +1,3 @@
-import javax.lang.model.util.ElementScanner6;
-
 public class Test_PS{
 
     static final int KOHTI_PEALE_KOMA = 2;
@@ -55,11 +53,11 @@ public class Test_PS{
         double n2 = ymar(s2.kaugus(p2));
         System.out.println("Sirge s2 on punktist p2 kaugusel " + n2);
 
-       /* if(k1 != k2){
-            System.out.println("Sirged loikuvad punktis" + s1.loikepunkt(s2));
+       if(k1 != k2){
+            System.out.println("Sirged loikuvad punktis " + s1.loikepunkt(s2));
             System.out.println("Nurk sirgete vahel on " + ymar(s1.nurk(s2)));
         }
         else
-            System.out.println("Sirged on paralleelsed");*/
+            System.out.println("Sirged on paralleelsed");
     }
 }
