@@ -1,0 +1,4 @@
+Eesnimi: Mart
+Perenimi: Mardiste
+Sugu: Mees
+Vanus: 99
