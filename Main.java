@@ -23,3 +23,4 @@ public class Main {
 
 //Keskmine pikkus on: 180.5cm
 //Keskmine pikkus on: 173.75cm
+//Keskmine pikkus on: 181.5cm
