@@ -1,0 +1,6 @@
+Eesnimi: Andre 
+Perekonnanimi: Martov
+Võistkond: Lakers
+Number: 24
+Punkte viimases mängus: 45
+Punkte viimases mängus: 56

@@ -1,0 +1,6 @@
+Eesnimi: Lebron
+Perekonnanimi: James
+Võistkond: Cavaliers
+Number: 23
+Punkte viimases mängus: 32
+Punkte viimases mängus: 28
