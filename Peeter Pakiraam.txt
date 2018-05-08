@@ -1,6 +1,6 @@
 Töötaja kodakondsus: eestlane
 Töötaja elukoht: Tallinn
-Isikukood: 3.9402041E10
+Isikukood: 39402040654
 Töötaja number:771
 Töötaja palk: 1200.0
 Töötaja lisainfo: Maaler, tingimisi vangistus
