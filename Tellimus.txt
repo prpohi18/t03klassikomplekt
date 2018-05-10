@@ -1,0 +1,8 @@
+nimi Robert
+mudel Leon
+Teenused:
+  Poleerimne 45.0€ 
+Keemiline puhastus 75.0€ 
+
+__________________________
+Kokku: 120.0€
