@@ -1,0 +1,3 @@
+Parkimiskoht: 10
+Auto mudel: vw
+Omaniku nimi: mari

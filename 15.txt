@@ -1,0 +1,3 @@
+Parkimiskoht: 15
+Auto mudel: audi
+Omaniku nimi: roland
