@@ -1,0 +1,4 @@
+Sisesta meeskonnanimi: Barcelona
+Sisesta mängijanimi: Messi
+Võidud: 10
+Kaotused: 1
