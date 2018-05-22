@@ -1,0 +1,107 @@
+Pood.java
+
+import java.util.*;
+import java.io.*;
+
+public class Pood{
+	Map<String, Kaup> Kaubad = new HashMap<String, Kaup>();
+	
+	public Pood(){
+		LoeKaubad();
+	}
+	
+	 protected void LoeKaubad(){
+        String[] fnimed=new File(Kaup.kaubakaust).list();
+        for(String fnimi: fnimed){
+            String[] m=fnimi.split("\\.");
+            if(m.length==2){
+              Kaubad.put(m[0], new Kaup(m[0]));
+              System.out.println("Loodi: "+m[0]);
+            }
+        }
+    }
+    public String KaubadSisu(String toode){
+        if(Kaubad.get(toode)!=null){
+            return "Kaup: "+toode+" hind "+Kaubad.get(toode).loeSumma();
+        }
+        return "Antud kaup - "+toode+" - puudub";
+    }
+    
+}
+_____________________________________________________________________________________________________
+Kaup.java
+
+import java.io.*;
+public class Kaup{
+    protected String toode;
+    public static final String kaubakaust="Kaubad/";
+    public Kaup(String toode){
+        this.toode=toode;
+        looKaup();
+    }
+    public String kysiKontoNr(){
+        return toode;
+    }
+    public boolean kasOlemas(){
+        return new File(kaubaFailiNimi()).exists();
+    }
+    protected String kaubaFailiNimi(){
+        return kaubakaust+toode+".txt";
+    }
+    protected void looKaup(){
+        if(!kasOlemas()){
+          kirjutaSumma(0);
+        }
+    }
+    public int loeSumma(){
+        try{
+           BufferedReader br=new BufferedReader(new FileReader(kaubaFailiNimi()));
+           int summa=Integer.parseInt(br.readLine());           
+           br.close();
+           return summa;
+        } catch(Exception ex){
+            ex.printStackTrace();
+        }
+        return -1;
+    }
+    public boolean kirjutaSumma(int eurod){
+          try{
+            PrintWriter pw=new PrintWriter(new FileWriter(kaubaFailiNimi()));
+            pw.println(eurod);
+            pw.close();
+            return true;
+           } catch(Exception ex){
+               ex.printStackTrace();
+           }
+           return false;
+    }
+    public int lisaSumma(int eurod){
+        if(eurod<0){throw new RuntimeException("negatiivne summa");}
+        int sisu=loeSumma();
+        sisu+=eurod;
+        kirjutaSumma(sisu);
+        return sisu;
+    }
+    public int eemaldaSumma(int eurod){
+        int sisu=loeSumma();
+        sisu-=eurod;
+        kirjutaSumma(sisu);
+        return sisu;
+    }
+} 
+____________________________________________________________________________________
+katse.java
+
+public class katse{
+    public static void main(String[] arg){
+        Kaup k1=new Kaup("tomat");
+        Kaup k2=new Kaup("shampoon");
+		Kaup k3=new Kaup("juukselakk");
+        System.out.println(k1.kasOlemas());
+        System.out.println(k1.lisaSumma(5));
+        Pood k=new Pood();
+        System.out.println(k.KaubadSisu("Lammas"));
+        System.out.println(k.KaubadSisu("tomat"));
+        /*System.out.println(k.ylekanne("EE9678", "EE9679", 2));*/
+    }
+}
