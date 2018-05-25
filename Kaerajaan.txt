@@ -1,0 +1,3 @@
+Nimi: Sten
+Hinne: 5
+Kommentaar: Väga maitsev söök ning meeldiv teenindus!
