@@ -1,0 +1,12 @@
+Eesnimi: Cristiano Ronaldo
+Positsioon: ründaja
+Vanus: 33
+Klubi: Real Madrid
+Eesnimi: Karim Benzema
+Positsioon: Rründaja
+Vanus: 30
+Klubi: Real Madrid
+Eesnimi: Gareth Bale
+Positsioon: ründaja
+Vanus: 28
+Klubi: Real Madrid
